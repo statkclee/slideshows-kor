@@ -5,11 +5,19 @@ subtitle: 소개
 ---
 
 <section class="slide">
+## 소프트웨어 카펜트리
+
+소프트웨어 카펜트리에 오신 것을 환영합니다...
+
+</section>
+
+<section class="slide">
 ## 소프트웨어 카펜트리 미션
 
-~~~
-좀더 생산적으로 연구를 수행하기 위해서 과학, 공학, 의학 분야의 지식근로자에게 컴퓨팅(scientific computing) 기본적인 기술을 가르치는 것.
-~~~
+<blockquote cite="http://example.org">
+  <p>좀더 생산적으로 연구를 수행하기 위해서 과학, 공학, 의학 분야의 지식근로자에게 컴퓨팅(scientific computing) 기본적인 기술을 가르치는 것.</p>
+  <p><cite>Software Carpentry</cite></p>
+</blockquote>
 
 </section>
 
@@ -110,8 +118,14 @@ subtitle: 소개
 
 </section>
 
+<section class="slide">
+## 컴퓨터적 사고(Computational Thinking)
 
 
+ <iframe width="640" height="480" 
+ src="http://www.youtube.com/watch?v=t346si4gy_M" frameborder="0" allowfullscreen></iframe>
+
+</section>
 
 
 

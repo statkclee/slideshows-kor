@@ -1,3 +1,5 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+
 @charset "UTF-8";
 /* Resets and base styles from HTML5 Boilerplate */
 div, span, object, iframe,
@@ -75,7 +77,7 @@ select, input, textarea, button {
 }
 
 pre, code, kbd, samp {
-  font-family: monospace, sans-serif;
+  font-family: 'Nanum Gothic', monospace, sans-serif;
 }
 
 a {
@@ -292,7 +294,7 @@ li > ol, li > ul {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Hoefler Text", Constantia, Palatino, "Palatino Linotype", "Book Antiqua", Georgia, serif;
+  font-family: 'Nanum Gothic', "Hoefler Text", Constantia, Palatino, "Palatino Linotype", "Book Antiqua", Georgia, serif;
 }
 
 h1 {
@@ -359,7 +361,7 @@ code {
 }
 
 blockquote {
-  font-family: "Hoefler Text", Constantia, Palatino, "Palatino Linotype", "Book Antiqua", Georgia, serif;
+  font-family: 'Nanum Gothic', "Hoefler Text", Constantia, Palatino, "Palatino Linotype", "Book Antiqua", Georgia, serif;
   font-size: 2em;
   padding: 1em 2em .5em 2em;
   color: #000;
@@ -430,7 +432,7 @@ a:hover, a:focus {
 }
 
 .deck-container {
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+  font-family: 'Nanum Gothic', "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
   font-size: 1.75em;
   background: #f4fafe;
   /* Old browsers */
