@@ -14,6 +14,7 @@ subtitle: Motivation
 * With
 * Bullet
 * Points
+* 한글 테스트 합니다... ㆅ
 </section>
 
 <section class="slide">

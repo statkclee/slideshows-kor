@@ -22,9 +22,12 @@ preview : $(DST_PAGES)
 
 # Pattern for slides (different parameters and template).
 motivation.html : motivation.md _layouts/slides.html
+motivation-kor.html : motivation-kor.md _layouts/slides.html
+software-carpentry.html : software-carpentry.md _layouts/slides.html
 	pandoc -s -t html \
 	--template=_layouts/slides \
 	-o $@ $<
+
 
 # Pattern to build a generic page.
 %.html : %.md _layouts/page.html $(FILTERS)
