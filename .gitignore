@@ -1,5 +1,9 @@
 *~
+<<<<<<< HEAD
 *.pyc
 .DS_Store
 _site
 README.html
+=======
+.DS_Store
+>>>>>>> upstream/gh-pages
